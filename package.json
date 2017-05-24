@@ -19,7 +19,9 @@
   "homepage": "https://github.com/russell88brown/hello_server#readme",
   "dependencies": {
     "express": "^4.15.3",
-    "lodash": "^4.17.4"
+    "express-handlebars": "^3.0.0",
+    "lodash": "^4.17.4",
+    "psql": "0.0.1"
   },
   "devDependencies": {
     "mocha": "^3.4.2"
